@@ -13,3 +13,5 @@ cutoff frequency and attenuates signals with higher frequencies.
 ![](Results/Circuit%202nd%20Order.png)<br>
 ![](Results/AC%20Analysis%201st%20Order.png)<br>
 ![](Results/AC%20Analysis%202nd%20Order.png)<br>
+
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/low-pass-filter.multisim)
